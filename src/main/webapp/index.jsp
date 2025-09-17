@@ -150,6 +150,14 @@
       </div>
       <a href="#" class="btn">Click Now</a>
     </div>
+  <div class="course-card">
+      <div class="course-icon"><i class="fas fa-robot"></i></div>
+      <div class="course-title">E-commerce and CRM Integration</div>
+      <div class="course-desc">
+       If you offer specific software, products, or have a sales process, look for a provider that can seamlessly integrate e-commerce functionalities and a Customer Relationship Management (CRM) system
+      </div>
+      <a href="#" class="btn">Click Now</a>
+    </div>
   </div>
 
 </body>
