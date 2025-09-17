@@ -110,8 +110,8 @@
 <body>
 
   <header>
-    <h1>🚀 Ashok IT Courses</h1>
-    <p>Upgrade your career with our industry-ready training programs</p>
+    <h1>🚀 Gnet Computer & Internet Services</h1>
+    <p>We Provide top Level and Most Secure IT Services </p>
   </header>
 
   <div class="container">
