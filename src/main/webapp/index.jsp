@@ -117,9 +117,9 @@
   <div class="container">
     <div class="course-card">
       <div class="course-icon"><i class="fab fa-java"></i></div>
-      <div class="course-title">Java Full Stack Development</div>
+      <div class="course-title">Custom Web Development</div>
       <div class="course-desc">
-        Master Core Java, Spring Boot, Microservices, Angular, React & more to become a job-ready full-stack developer.
+         Look for companies that build websites from scratch rather than using generic templates. This allows for a unique, scalable, and secure platform that can grow with your business. Top providers often use modern frameworks like React, Angular, and Node.js.
       </div>
       <a href="#" class="btn">Enroll Now</a>
     </div>
