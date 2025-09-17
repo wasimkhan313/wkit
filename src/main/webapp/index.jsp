@@ -121,34 +121,34 @@
       <div class="course-desc">
          Look for companies that build websites from scratch rather than using generic templates. This allows for a unique, scalable, and secure platform that can grow with your business. Top providers often use modern frameworks like React, Angular, and Node.js.
       </div>
-      <a href="#" class="btn">Enroll Now</a>
+      <a href="#" class="btn">Click Now</a>
     </div>
 
     <div class="course-card">
       <div class="course-icon"><i class="fab fa-python"></i></div>
-      <div class="course-title">Python Full Stack Development</div>
+      <div class="course-title">UI/UX Design</div>
       <div class="course-desc">
-        Learn Python, Django, REST APIs, React, and advanced deployment strategies for real-world projects.
+        A professional, easy-to-navigate website is crucial for building credibility. A great UI/UX team will focus on creating an intuitive user experience and a clean, modern interface that highlights your services and expertise
       </div>
-      <a href="#" class="btn">Enroll Now</a>
+      <a href="#" class="btn">Click Now</a>
     </div>
 
     <div class="course-card">
       <div class="course-icon"><i class="fas fa-cloud"></i></div>
-      <div class="course-title">DevOps with AWS</div>
+      <div class="course-title">Content Management System (CMS) Integration</div>
       <div class="course-desc">
-        Get hands-on with Docker, Kubernetes, Jenkins, Terraform & AWS Cloud to launch your DevOps career.
+         A good CMS (like WordPress, Drupal, or a custom one) will allow you to easily update your website's content, such as blog posts, case studies, and service descriptions, without needing a developer
       </div>
-      <a href="#" class="btn">Enroll Now</a>
+      <a href="#" class="btn">Click Now</a>
     </div>
 
     <div class="course-card">
       <div class="course-icon"><i class="fas fa-robot"></i></div>
-      <div class="course-title">Data Science & AI</div>
+      <div class="course-title">Cloud & DevOps Solutions</div>
       <div class="course-desc">
-        Become industry-ready with Machine Learning, Python, Deep Learning, NLP, and real-time data projects.
+       ince your business is in IT, your website should reflect your technical prowess. Companies that can host your site on a scalable, secure cloud platform and use modern DevOps practices show they practice what they preach.
       </div>
-      <a href="#" class="btn">Enroll Now</a>
+      <a href="#" class="btn">Click Now</a>
     </div>
   </div>
 
