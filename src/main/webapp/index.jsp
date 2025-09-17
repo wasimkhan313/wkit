@@ -110,7 +110,7 @@
 <body>
 
   <header>
-    <h1>🚀 Gnet Computer & Internet Services</h1>
+    <h1>Gnet Computer & Internet Services</h1>
     <p>We Provide top Level and Most Secure IT Services </p>
   </header>
 
