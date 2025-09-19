@@ -158,14 +158,14 @@
       </div>
       <a href="#" class="btn">Click Now</a>
     </div>
-  <div class="course-card">
+  /*<div class="course-card">
       <div class="course-icon"><i class="fas fa-robot"></i></div>
       <div class="course-title">SEO and Digital Marketing</div>
       <div class="course-desc">
        our website won't attract customers if it can't be found. The best services include integrated SEO strategies to improve your search engine rankings and digital marketing expertise to help you generate leads.
       </div>
       <a href="#" class="btn">Click Now</a>
-    </div>
+    </div>*/
   </div>
 
 </body>
